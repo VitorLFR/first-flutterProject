@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:primeiroprojetoflutter/view/new_screen.dart';
 import 'package:primeiroprojetoflutter/view/ricky_page.dart';
+
 void main() {
   runApp(const MyApp());
 }
